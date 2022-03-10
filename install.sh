@@ -1,5 +1,5 @@
 
-#Ubuntu 18.04 Version installation Script
+#Ubuntu 20.04 Version installation Script
 
 
 sudo apt install -y net-tools git

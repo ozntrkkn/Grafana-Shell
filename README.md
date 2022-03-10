@@ -1,4 +1,4 @@
-# Grafana Shell Script on Ubuntu 18.04 Version 
+# Grafana Shell Script on Ubuntu 20.04 Version 
 
 Default login:
 
